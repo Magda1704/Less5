@@ -1,0 +1,117 @@
+.nav {
+	display: inline-block;
+}
+.li {
+	display: inline-block;
+	margin-right: 25px;
+}
+.logo {
+	margin-left: 20px;
+	margin-top: 18px;
+	margin-right: 92px;
+
+}
+.main-div {
+	margin-top: 25px;
+	margin-left: 140px;
+}
+.trend {
+	margin-bottom: 40px;
+	font-size: 24px;
+}
+.foto {
+	vertical-align: middle;
+}
+.header {
+	position: fixed;
+}
+.div1 {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 40px;
+}
+.div-child1 {
+	width: 360px;
+	height: 180px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+}
+.div-pos {
+	position: relative;
+}
+.foto1-text{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-size: 16px;
+	color: white;
+	z-index: 1;
+
+}
+.text1 {
+	width: 280px;
+	height: 38px;
+	margin-bottom: 10px;
+}
+.div-child2 {
+	width: 360px;
+	height: 180px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+}
+.div2{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 40px;
+}
+.text2 {
+	width: 280px;
+	height: 38px;
+	margin-bottom: 10px;
+}
+.div3 {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+}
+.section2 {
+	width: 1160px;
+	height: 900px;
+	margin-left: 140px;
+
+}
+.sec2div1{
+	position: relative;
+}
+.div-text{
+	position: absolute;
+	font-size: 16px;
+	top: 200px;
+	left: 300px;
+	color: white;
+}
+.main-div2 {
+	display: inline-block;
+	margin-right: 40px;
+}
+.main-div3 {
+	display: inline-block;
+	width: 360px;
+	height: 900px;
+}
+.tut {
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
+.title2 {
+	margin-top: 58px;
+	margin-bottom: 40px;
+	font-size: 24px;
+}
+.road-foto {
+	margin-bottom: 24px;
+}
